@@ -1,2 +1,4 @@
-package com.moneygaming.tests;public class Test1 {
+package com.moneygaming.tests;
+
+public class Test1 {
 }
